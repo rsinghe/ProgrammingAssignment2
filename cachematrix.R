@@ -24,7 +24,7 @@ makeCacheMatrix <- function(x = matrix()) {
 	}
 	
 	## Return the list of methods
-	list(set=set, get=get, setInverse=setInverse, getInverse=getInverse}	
+	list(set=set, get=get, setInverse=setInverse, getInverse=getInverse)	
 }
 
 
